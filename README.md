@@ -1,1 +1,1 @@
-# vido.dev-website
+# vido.dev
